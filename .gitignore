@@ -26,9 +26,6 @@
 # Visual Studio cache directory
 .vs/
 
-# Ignore Library
-/[Ll]ibrary/
-
 # Gradle cache directory
 .gradle/
 
