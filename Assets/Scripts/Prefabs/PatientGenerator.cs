@@ -1,25 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Intake.cs;
+using Disease.cs;
 
 public class PatientGenerator : MonoBehaviour
 {
     System.Random rnd = new Random();
-    public struct Disease
-    {
-        string name;
-        double percentage;
-        int effect;
-        bool has;
-    }
-    public struct Intake
-    {
-        string name;
-        int effect;
-        bool has;
-    }
-    public int patientID;
-    public int age;
     public List<Intake> intake;
     public List<Disease> disease;
 

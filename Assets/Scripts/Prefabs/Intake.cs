@@ -2,21 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Intake : MonoBehaviour
+public struct Intake
 {
-    string symptom;
+    string name;
+    int effect;
     bool has;
-    public float chance;
-    public int effect;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
