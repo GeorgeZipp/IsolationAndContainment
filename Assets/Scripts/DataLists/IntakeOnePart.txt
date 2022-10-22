@@ -1,0 +1,29 @@
+coughing, 3
+smokes, 5
+fever, 7
+headache, 3
+internalBleeding, 10
+unconscious, 10
+chills, 3
+fatigue, 2
+aches, 3
+nausea, 5
+vomiting, 7
+lossOfSmell, 3
+soreThroat, 4
+congestion, 3
+diarrhea, 5
+troubleBreathing, 8
+persistentPain, 8
+confusion, 9
+pale, 8
+
+healthyEater, poorEater, 2, 7
+poor, wealthy, 6, 2
+fit, obese, 1, 7
+insured, uninsured, 1, 7
+child, adult, 6, 4
+goodSleep, badSleep, 2, 5
+noAlcohol, alcohol, 3, 7
+clearPee, darkYellowPiss, 3, 6
+vaccinated, notVaccinated, 1, 6
